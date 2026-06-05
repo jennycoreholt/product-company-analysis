@@ -16,7 +16,7 @@
 
 ## Table of Contents
 1. [Impact of Pricing Change on Customer Behaviour](#Impact-of-Pricing-Change-on-Customer-Behaviour)
-2. [Website Engagement & Conversion Funnel Analysis](#Website-Engagement-&-Conversion-Funnel-Analysis)
+2. [Website Engagement & Conversion Funnel Analysis](#Website-Engagement-and-Conversion-Funnel-Analysis)
 3. [Predicting demand for MOV gift 'New Product'](#Predicting-demand-for-MOV-gift)
 
 
@@ -113,7 +113,7 @@ Rather than reducing the core subscription price, **sales and marketing stakehol
 
 <br>
 
-## Website Engagement & Conversion Funnel Analysis
+## Website Engagement and Conversion Funnel Analysis
 The following analysis examines website engagement metrics from April 2025 to March 2026, identifying key trends, drop-off points, and anomalies across the customer journey from session to web order.
 
 **High-Level Conversion Performance**
@@ -195,7 +195,7 @@ Two additional metric pairs display matching spike behaviour, reinforcing the ab
 <br>
 <br>
 
-## Predicting demand for MOV gift 'New Product'
+## Predicting demand for MOV gift.
 Based on 13 months of historical data, product unit prediction was calculated for the 'New Product' for each month of 2026, 2027 and 2028. 33.75%
 22.36%
 
