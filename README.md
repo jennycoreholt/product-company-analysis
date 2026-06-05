@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  Documentation and work sheets are available on Google Spreadsheets <a href="https://docs.google.com/spreadsheets/d/17i_8Hc_iKhWiR3B0zZ6WxBPFd-McWYBPCIsJ-pXiVSY/edit?usp=sharing">here</a>.
+  Documentation and work sheets are available on Google Spreadsheets <a href="https://docs.google.com/spreadsheets/d/17i_8Hc_iKhWiR3B0zZ6WxBPFd-McWYBPCIsJ-pXiVSY/edit?usp=sharing" target="_blank">here</a>.
 </p>
 
 
